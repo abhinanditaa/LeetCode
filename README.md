@@ -1,4 +1,5 @@
 # 🧩 LeetCode — DSA Practice
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinandita)](https://leetcode.com/u/Abhinandita/)
 
 Welcome to my **LeetCode journey**! 🚀
 
